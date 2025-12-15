@@ -3,7 +3,9 @@
 ![R](https://img.shields.io/badge/Language-R-blue)
 ![Analysis](https://img.shields.io/badge/Type-Data%20Analysis-green)
 ![Context](https://img.shields.io/badge/Context-USA%20Education-red)
+
 <img width="575" height="329" alt="Plot1_ESCS_Distribution png" src="https://github.com/user-attachments/assets/37682e2e-dd39-4d95-9d6b-4849d1355fa7" />
+
 <img width="454" height="393" alt="Plot2_ESCS_Boxplot png" src="https://github.com/user-attachments/assets/9ff123a3-2bbe-4c6c-852c-d439cfc81c2a" />
 
 ## 📌 Project Overview
