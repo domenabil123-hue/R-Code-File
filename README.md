@@ -4,10 +4,6 @@
 ![Analysis](https://img.shields.io/badge/Type-Data%20Analysis-green)
 ![Context](https://img.shields.io/badge/Context-USA%20Education-red)
 
-<img width="575" height="329" alt="Plot1_ESCS_Distribution png" src="https://github.com/user-attachments/assets/37682e2e-dd39-4d95-9d6b-4849d1355fa7" />
-
-<img width="454" height="393" alt="Plot2_ESCS_Boxplot png" src="https://github.com/user-attachments/assets/9ff123a3-2bbe-4c6c-852c-d439cfc81c2a" />
-
 ## 📌 Project Overview
 This project analyzes data from the **Programme for International Student Assessment (PISA)** to investigate the impact of socioeconomic background on 15-year-old students' academic performance in the United States. 
 
@@ -56,13 +52,13 @@ The analysis was performed using **R Language** inside RStudio.
 ### 1. Distribution of Socioeconomic Status
 The analysis shows that the ESCS index follows a normal distribution centered around the mean. However, tails on both ends indicate the presence of significant inequality.
 
-![Distribution of ESCS](Plot1_ESCS_Distribution.png)
+![Distribution of ESCS](https://github.com/user-attachments/assets/37682e2e-dd39-4d95-9d6b-4849d1355fa7)
 *Figure 1: Histogram showing the distribution of ESCS trends among students.*
 
 ### 2. Impact of Parental Education
 There is a strong positive linear relationship between parental education and a student's socioeconomic status. Students whose parents have completed higher education (16+ years) consistently show higher SES scores.
 
-![ESCS by Parental Education](Plot2_ESCS_Boxplot.png)
+![ESCS by Parental Education](https://github.com/user-attachments/assets/9ff123a3-2bbe-4c6c-852c-d439cfc81c2a)
 *Figure 2: Boxplot demonstrating the rise in ESCS median scores as parental education increases.*
 
 ---
@@ -86,4 +82,4 @@ There is a strong positive linear relationship between parental education and a 
 ---
 
 ### 👤 Author
-**Mohamed Nabil** *Data Analyst & Educational Researcher* ```
+**Mohamed Nabil** *Data Analyst & Educational Researcher*
