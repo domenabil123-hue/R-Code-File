@@ -53,12 +53,14 @@ The analysis was performed using **R Language** inside RStudio.
 The analysis shows that the ESCS index follows a normal distribution centered around the mean. However, tails on both ends indicate the presence of significant inequality.
 
 ![Distribution of ESCS](https://github.com/user-attachments/assets/37682e2e-dd39-4d95-9d6b-4849d1355fa7)
+
 *Figure 1: Histogram showing the distribution of ESCS trends among students.*
 
 ### 2. Impact of Parental Education
 There is a strong positive linear relationship between parental education and a student's socioeconomic status. Students whose parents have completed higher education (16+ years) consistently show higher SES scores.
 
 ![ESCS by Parental Education](https://github.com/user-attachments/assets/9ff123a3-2bbe-4c6c-852c-d439cfc81c2a)
+
 *Figure 2: Boxplot demonstrating the rise in ESCS median scores as parental education increases.*
 
 ---
